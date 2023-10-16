@@ -353,7 +353,7 @@ const components = [
       playArea.innerHTML = `<div class="hurray-frame">
       <div class="hurray-imgs">
         <img src="components/stars.svg" alt="stars">
-        <img class="trophy" src="components/trophy.svg" alt="trophy">
+        <img class="trophy" src="components/trophy.png" alt="trophy">
       </div>
       <h1>hurray!!</h1>
       <h3>you won the game</h3>
