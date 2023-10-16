@@ -400,6 +400,19 @@ body {
   
   .hurray-imgs {
     position: relative;
+    margin-top: 7vh;
+  }
+
+  .star1 {
+    height: 3vh;
+    width: 3vw;
+    margin-right: 10vh;
+  }
+
+  .star2 {
+    height: 3vh;
+    width: 3vw;
+    margin-left: 10vh;
   }
   
   .hurray-frame h1 {

@@ -352,7 +352,9 @@ const components = [
     nextBtn.addEventListener("click", () => {
       playArea.innerHTML = `<div class="hurray-frame">
       <div class="hurray-imgs">
+        <img src="components/stars.svg" alt="stars" class="star2">
         <img src="components/stars.svg" alt="stars">
+        <img src="components/stars.svg" alt="stars" class="star1">
         <img class="trophy" src="components/trophy.png" alt="trophy">
       </div>
       <h1>hurray!!</h1>
